@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Scorty and I like playing video games in my free time. (YES YES VERY COOL)
 
 <!--
 **ScortyBoy/ScortyBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
